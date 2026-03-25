@@ -16,7 +16,7 @@
 - **LAN Server Mapping & Assistance** – Detect and connect to local servers easily; assists in local multiplayer connections.  
 - **Server List** – Organize your favorite servers for quick access.  
 - **WAN Support** – Connect to paid wide-area servers or free limited WAN servers via **built-in API**.  
-- **Server Metadata Display** – Shows if the server requires **正版验证** (official account verification) and whether **additional components** need to be installed.  
+- **Server Metadata Display** – Shows if the server requires official account verification and whether **additional components** need to be installed.  
 - **Cross-Location Networking Assistance (Alpha)** – Experimental support for connecting across remote networks for testing purposes.  
 - **Alpha Test Phase** – Early release; features are experimental and may change.
 
