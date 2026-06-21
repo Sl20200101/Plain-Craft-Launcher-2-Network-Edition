@@ -1,4 +1,4 @@
-# 🎮 PCL2 LAN & WAN Edition (Alpha)
+# 🎮 PCL2 Network Edition (Alpha)
 
 ![PCL2](https://img.shields.io/badge/PCL2-2.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
@@ -26,9 +26,9 @@
 ## ⏳ Project Progress (Alpha Phase 1)
 
 - [x] Waiting for Mojang approval
-- [ ] Testing login
-- [ ] Testing direct multiplayer functionality
-- [ ] Packaging first demo version
+- [x] Testing login
+- [x] Testing direct multiplayer functionality
+- [x] Packaging first demo version
 
 ---
 
