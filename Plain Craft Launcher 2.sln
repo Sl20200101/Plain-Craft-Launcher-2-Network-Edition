@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11620.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Plain Craft Launcher 2", "Plain Craft Launcher 2\Plain Craft Launcher 2.vbproj", "{4499F2D2-18EF-4238-B1F0-7BD547AFF925}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Plain Craft Launcher 2 Network Edition Alpha 1", "setup\Plain Craft Launcher 2 Network Edition Alpha 1\Plain Craft Launcher 2 Network Edition Alpha 1.vdproj", "{4C9F6A9D-DB44-6A6E-0668-8F3BCB80D1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Beta|Any CPU = Beta|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseUpdate|Any CPU = ReleaseUpdate|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4499F2D2-18EF-4238-B1F0-7BD547AFF925}.Beta|Any CPU.ActiveCfg = BETA|Any CPU
+		{4499F2D2-18EF-4238-B1F0-7BD547AFF925}.Beta|Any CPU.Build.0 = BETA|Any CPU
+		{4499F2D2-18EF-4238-B1F0-7BD547AFF925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4499F2D2-18EF-4238-B1F0-7BD547AFF925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4499F2D2-18EF-4238-B1F0-7BD547AFF925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4499F2D2-18EF-4238-B1F0-7BD547AFF925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4499F2D2-18EF-4238-B1F0-7BD547AFF925}.ReleaseUpdate|Any CPU.ActiveCfg = ReleaseUpdate|Any CPU
+		{4499F2D2-18EF-4238-B1F0-7BD547AFF925}.ReleaseUpdate|Any CPU.Build.0 = ReleaseUpdate|Any CPU
+		{4C9F6A9D-DB44-6A6E-0668-8F3BCB80D1BA}.Beta|Any CPU.ActiveCfg = Debug
+		{4C9F6A9D-DB44-6A6E-0668-8F3BCB80D1BA}.Debug|Any CPU.ActiveCfg = Debug
+		{4C9F6A9D-DB44-6A6E-0668-8F3BCB80D1BA}.Release|Any CPU.ActiveCfg = Release
+		{4C9F6A9D-DB44-6A6E-0668-8F3BCB80D1BA}.ReleaseUpdate|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838A572E-025C-4A2B-B682-68732EC0FE76}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

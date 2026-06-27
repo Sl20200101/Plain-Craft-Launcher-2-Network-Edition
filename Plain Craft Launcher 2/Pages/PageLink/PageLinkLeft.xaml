@@ -1,0 +1,14 @@
+<local:MyPageLeft x:Class="PageLinkLeft"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PCL" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+             d:DesignWidth="152" AnimatedControl="PanItem">
+    <StackPanel Margin="0,12,0,0" x:Name="PanItem">
+        <local:MyListItem x:Name="ItemLobby" IsScaleAnimationEnabled="False" Checked="True" MinPaddingRight="35" Type="RadioBox" Tag="0" Height="36" VerticalAlignment="Top" Title="联机大厅"
+                          LogoScale="0.9" Logo="M512 0C229.2 0 0 229.2 0 512s229.2 512 512 512 512-229.2 512-512S794.8 0 512 0z m0 954C268 954 70 756 70 512S268 70 512 70s442 198 442 442-198 442-442 442z M857 325H659V144c80 39 146 101 198 181z M659 701h198c-52 80-118 142-198 181V701z m-75 197c-21 4-43 6-65 6s-44-2-65-6V701h130v197z m-205-16c-52-39-88-97-104-181H146c43 89 114 159 204 197z m271 0c90-38 161-108 204-197H679c-16 84-52 142-104 181zM146 512c0-34 6-67 17-98h129c-3 32-5 65-5 98s2 66 5 98H163c-11-31-17-64-17-98z m149 189H437V325H295c-15 57-23 120-23 187s8 130 23 187z m217 0V325h130c15 57 23 120 23 187s-8 130-23 187H512z m130-394H512V122c22-4 44-6 65-6s43 2 65 6v197z M364 138c-52 39-88 97-104 181H146c43-89 114-159 204-197z" />
+        <local:MyListItem x:Name="ItemFriend" IsScaleAnimationEnabled="False" MinPaddingRight="35" Type="RadioBox" Tag="1" Height="36" VerticalAlignment="Top" Title="好友联机"
+                          LogoScale="0.92" Logo="M512 64c-159 0-288 129-288 288s129 288 288 288 288-129 288-288S671 64 512 64z m0 512c-124 0-224-100-224-224S388 128 512 128s224 100 224 224-100 224-224 224zM512 640c-194 0-352 124-352 256v64h704v-64c0-132-158-256-352-256z" />
+        <local:MyListItem x:Name="ItemServer" IsScaleAnimationEnabled="False" MinPaddingRight="35" Type="RadioBox" Tag="2" Height="36" VerticalAlignment="Top" Title="服务器"
+                          LogoScale="0.9" Logo="M192 128h640a64 64 0 0 1 64 64v128a64 64 0 0 1-64 64H192a64 64 0 0 1-64-64V192a64 64 0 0 1 64-64z m0 320h640a64 64 0 0 1 64 64v128a64 64 0 0 1-64 64H192a64 64 0 0 1-64-64V512a64 64 0 0 1 64-64z m64 64v64h64v-64h-64z m0-320v64h64v-64h-64z" />
+    </StackPanel>
+</local:MyPageLeft>

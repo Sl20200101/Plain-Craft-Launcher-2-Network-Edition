@@ -1,0 +1,58 @@
+{
+  "output": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\output\\拆数字.pptx",
+  "outputBytes": 24430,
+  "slideCount": 4,
+  "slideSize": {
+    "width": 1280,
+    "height": 720
+  },
+  "previewDir": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\preview",
+  "previewPaths": [
+    "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\preview\\slide-01.png",
+    "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\preview\\slide-02.png",
+    "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\preview\\slide-03.png",
+    "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\preview\\slide-04.png"
+  ],
+  "layoutDir": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\layout\\final",
+  "layoutResults": [
+    {
+      "layoutPath": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\layout\\final\\slide-01.layout.json"
+    },
+    {
+      "layoutPath": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\layout\\final\\slide-02.layout.json"
+    },
+    {
+      "layoutPath": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\layout\\final\\slide-03.layout.json"
+    },
+    {
+      "layoutPath": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\layout\\final\\slide-04.layout.json"
+    }
+  ],
+  "contactSheet": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\preview\\contact-sheet.png",
+  "slides": [
+    {
+      "index": 1,
+      "requestedSlideNumber": 1,
+      "modulePath": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\slides\\slide-01.mjs",
+      "exportName": "slide01"
+    },
+    {
+      "index": 2,
+      "requestedSlideNumber": 2,
+      "modulePath": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\slides\\slide-02.mjs",
+      "exportName": "slide02"
+    },
+    {
+      "index": 3,
+      "requestedSlideNumber": 3,
+      "modulePath": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\slides\\slide-03.mjs",
+      "exportName": "slide03"
+    },
+    {
+      "index": 4,
+      "requestedSlideNumber": 4,
+      "modulePath": "C:\\Users\\mimi\\Documents\\PCL2 方法二登入备份\\outputs\\manual-20260604-chaishu-01\\presentations\\chai-shu-lesson\\slides\\slide-04.mjs",
+      "exportName": "slide04"
+    }
+  ]
+}
